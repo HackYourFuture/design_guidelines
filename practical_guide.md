@@ -18,7 +18,9 @@ First thing you should do when building a design is to look at the requirements 
 Searching online for a “to-do app graphic interface”, I landed on [Asana's website](https://asana.com/uses/to-do-list), a very know productivity app that offers (among other things) a todo-app that looks like this:
 
 <br>
+
 ![Asana](assets/asana.png)
+
 <br>
 
 This is a great reference, but it looks nothing like Adyen’s brand. For that, we will have to make some changes here and there. Let’s get started by looking at [Adyen’s website](https://www.adyen.com/).

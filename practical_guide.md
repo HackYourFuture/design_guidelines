@@ -6,8 +6,9 @@ Painter Pablo Picasso once said, “Good artists copy. Great artists steal.” T
 
 In this practical guide, we will create the design for a simple to-do list application based on the house style from 3 different known companies: Adyen, Uber and ING. We want to show you how, without knowing much about design, you can apply the principles learned before to create apps and websites that look great. Let’s get started!
 
-
-
+<br>
+<br>
+<br>
 
 ## A. Building a to-do app for Adyen
 

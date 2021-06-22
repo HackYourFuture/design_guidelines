@@ -94,7 +94,7 @@ Now you have a good overall idea of how your app should look!
 
 
 
-## C. Building the same to-do app, but as a personal project (inspired in the ING brand)
+##C. Building the same to-do app, but as a personal project (inspired in the ING brand)
 
 Now, let’s imagine this application is not for an application to work at Adyen or Uber, but simply a portfolio piece you are working on to make your CV more attractive. In this case, you probably shouldn't be using the branding of another company! However, If you ’get inspired’ in the design from renowned brands or websites, chances are your application will end up looking great and also function (from the graphic user interface perspective) in a friendly manner.
 

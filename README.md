@@ -19,7 +19,7 @@ In this guide we will provide you with some basic design theory and plenty of pr
 **Content on this repo:**
 1. [Essential design principles]()
 2. [The ‘art’ of ‘stealing’: a practical guide]()
-3. Do’s and Don'ts with examples from HYF students(Coming Soon!)
+3. Do’s and Don'ts with examples from HYF students (Coming Soon!)
 
 ## Additional material
 There are tons of resources online to help you become a better front end developer and designer. Besides the info shared in this repo, we recommend you take a look at the following resources:

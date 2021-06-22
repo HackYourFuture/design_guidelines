@@ -26,7 +26,9 @@ Searching online for a “to-do app graphic interface”, I landed on [Asana's w
 This is a great reference, but it looks nothing like Adyen’s brand. For that, we will have to make some changes here and there. Let’s get started by looking at [Adyen’s website](https://www.adyen.com/).
 
 <br>
+
 ![Adyen](assets/adyen.png)
+
 <br>
 
 At the first fold of the site, we can see the colors they use, the fonts, the buttons, the search function, the spacing and alignment...Basically everything we need for our app!
@@ -34,25 +36,33 @@ At the first fold of the site, we can see the colors they use, the fonts, the bu
 ***TIPS:*** You can inspect the page on your browser to find the exact typography, the colors, etc. Another practical way to do this is to use [stylifyme.com/](http://stylifyme.com/), a tool which basically gives you all the info you need in no time:
 
 <br>
+
 ![Stilify](assets/stilify.png)
+
 <br>
 
 Browsing through the Adyen site (and its different sections), we've compiled a list of components I could be using in my app. Let’s look at them:
 
 <br>
+
 ![Adyencomponents](assets/adyencomponents.png)
+
 <br>
 
 With our elements at hand, let’s now make a quick mockup of our redesigned Asana to-do app, using Adyen’s components. A quick way to do this is using Keynote (or powerpoint)! This saves a lot of time, and you do not need any special skills to use it. Just copy, paste and crop…
 
 <br>
+
 ![Keynote](assets/keynote.png)
+
 <br>
 
 Now our todo mockup looks a lot like Adyen's house style. Yes, one might argue it is not perfect and we are sure that Ayden's designers would do a better design job than us. However, the app looks good in style and is functional, crucial criteria to have a great project in your cv, find a job as a front end developer, and not less important, to ace your assignments at HackYourFuture.
 
 <br>
+
 ![AdyenMockup](assets/adyenmockup.png)
+
 <br>
 
 The design is now ready for you to implement in HTML/CSS/Javascript! But before we are done, take a look at these important notes:
@@ -67,13 +77,17 @@ The design is now ready for you to implement in HTML/CSS/Javascript! But before 
 The same process we applied above can be useful to recreate the style of any brand. Let’s now look for the elements we need for our app, but on the Uber site:
 
 <br>
+
 ![Uberelements](assets/uberelements.png)
+
 <br>
 
 And let’s apply these elements to our to-do app:
 
 <br>
+
 ![Uberfinal](assets/uberfinal.png)
+
 <br>
 
 Now you have a good overall idea of how your app should look!
@@ -87,19 +101,25 @@ Now, let’s imagine this application is not for an application to work at Adyen
 Let’s start by compiling the elements we need for our app from the ING website and portal:
 
 <br>
+
 ![Ingelements](assets/ingelements.png)
+
 <br>
 
 Following the same steps as above, we are going to now rearrange all elements to make for our to-do app. But before that, we need to sort out the logo part. We are no designers, so let's keep it simple:
 
 <br>
+
 ![Inglogo](assets/inglogo.png)
+
 <br>
 
 Now with a new logo at hand, we can put together our final design:
 
 <br>
+
 ![Ingfinal](assets/ingfinal.png)
+
 <br>
 
 Hope you found this guide useful! We are looking forward to seeing some great looking assignments!

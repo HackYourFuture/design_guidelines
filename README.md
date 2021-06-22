@@ -15,7 +15,7 @@ There are plenty of reasons why you might want to learn design, or at least deve
 - Learning about design and UX will make your work and passion projects better. If you don’t understand the basics of design you may overlook small details that make a user interface particularly user-friendly and unintentionally sabotage the project’s user experience. That would be a waste of your amazing code!
 
 **Content on this repo:**
-1. [Essential design principles]()
+1. [Essential design principles](design_principles.md)
 2. [The ‘art’ of ‘stealing’: a practical guide]()
 3. Do’s and Don'ts with examples from HYF students (Coming Soon!)
 

@@ -10,18 +10,18 @@ There are plenty of reasons why you might want to learn design, or at least deve
 
 - First impressions matter! When you work on a technical assignment as an application to a job or internship, sometimes the first people to look at your work are recruiters and not developers! They (most likely) won’t be able to judge the quality of your code, but are able to judge its looks and usability. If the projects on your CV don't look good or are ‘hard to use’, your application might not pass the first check.
 
-- Small teams might not always have a dedicated designer and you still should be able to work with for example just the company's design guidelines and/or general design defined by the company’s style.
+- Small teams might not always have a dedicated designer and you still should be able to work with (for example) the company's design guidelines and/or general design defined by the company’s website.
 
 - Learning about design and UX will make your work and passion projects better. If you don’t understand the basics of design you may overlook small details that make a user interface particularly user-friendly and unintentionally sabotage the project’s user experience. That would be a waste of your amazing code!
+
+In this guide we will provide you with some basic design theory and plenty of practical examples you can apply to your projects to ensure your applications and technical assignments look great. It won't help you think or work as a designer, but rather offer you insights and shortcuts so that you can do better in this area. Let’s then get started!
 
 **Content on this repo:**
 1. [Essential design principles](design_principles.md)
 2. [The ‘art’ of ‘stealing’: a practical guide](practical_guide.md)
 3. Do’s and Don'ts with examples from HYF students (Coming Soon!)
 
-In this guide we will provide you with some basic design theory and plenty of practical examples you can apply to your projects to ensure your applications and technical assignments look great. It won't help you think or work as a designer, but rather offer you insights and shortcuts so that you can do better in this area. Let’s then get started!
-
-## Additional material
+## Optional material
 There are tons of resources online to help you become a better front end developer and designer. Besides the info shared in this repo, we recommend you take a look at the following resources:
 
 - [Material.io](https://material.io/): Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code and Google, Material streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.

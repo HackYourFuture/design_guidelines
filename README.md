@@ -1,6 +1,6 @@
 # Design Guidelines for HYF students
 
-![YourPersonalBrand](assets/yourbrand.jpg)
+![HomeImage](assets/home.jpg)
 
 Even though they may be working on the same projects and products, developers and designers often work apart from one another in silos. Design is sometimes considered by developers as a secondary thing, unimportant when compared with the functionality of a product.
 

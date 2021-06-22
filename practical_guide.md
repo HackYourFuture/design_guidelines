@@ -71,7 +71,6 @@ The design is now ready for you to implement in HTML/CSS/Javascript! But before 
 - Whenever possible, use icons and logos from the brand you are trying to ‘copy’.
 - You may not have time to recreate the site in a ‘pixel-perfect’ way. If that is the case and you are using a library such as Twitter Bootstrap to save time, be sure to adapt your components to look as close as possible to the brand you are trying to recreate. Look at details such as rounding of buttons, menu and dropdowns interactions, shadows, etc. These really make a difference in the final design.
 
-<br>
 ## B. Building the to-do app for Uber
 
 The same process we applied above can be useful to recreate the style of any brand. Let’s now look for the elements we need for our app, but on the Uber site:
@@ -93,8 +92,7 @@ And let’s apply these elements to our to-do app:
 Now you have a good overall idea of how your app should look!
 
 
-
-##C. Building the same to-do app, but as a personal project (inspired in the ING brand)
+## C. Building the same to-do app, but as a personal project - inspired in the ING brand
 
 Now, let’s imagine this application is not for an application to work at Adyen or Uber, but simply a portfolio piece you are working on to make your CV more attractive. In this case, you probably shouldn't be using the branding of another company! However, If you ’get inspired’ in the design from renowned brands or websites, chances are your application will end up looking great and also function (from the graphic user interface perspective) in a friendly manner.
 

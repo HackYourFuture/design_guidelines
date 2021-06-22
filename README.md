@@ -17,11 +17,11 @@ There are plenty of reasons why you might want to learn design, or at least deve
 In this guide we will provide you with some basic design theory and plenty of practical examples you can apply to your projects to ensure your applications and technical assignments look great. It won't help you think or work as a designer, but rather offer you insights and shortcuts so that you can do better in this area. Let’s then get started!
 
 **Content on this repo:**
-1. Essential design principles
-2. The ‘art’ of ‘stealing’: a practical guide
-3. Do’s and Don'ts with examples from HYF students (Coming Soon!)
+[1. Essential design principles]()
+[2. The ‘art’ of ‘stealing’: a practical guide]()
+[3. Do’s and Don'ts with examples from HYF students](Coming Soon!)
 
-**Additional material**
+## Additional material
 There are tons of resources online to help you become a better front end developer and designer. Besides the info shared in this repo, we recommend you take a look at the following resources:
 
 - [Material.io](https://material.io/): Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code and Google, Material streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.

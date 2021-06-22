@@ -7,6 +7,8 @@ Painter Pablo Picasso once said, “Good artists copy. Great artists steal.” T
 In this practical guide, we will create the design for a simple to-do list application based on the house style from 3 different known companies: Adyen, Uber and ING. We want to show you how, without knowing much about design, you can apply the principles learned before to create apps and websites that look great. Let’s get started!
 
 
+
+
 ## A. Building a to-do app for Adyen
 
 First thing you should do when building a design is to look at the requirements of what you are trying to build and understand what kind of elements should be included in it. For this example we will keep it easy. We will need:
@@ -16,11 +18,20 @@ First thing you should do when building a design is to look at the requirements 
 
 Searching online for a “to-do app graphic interface”, I landed on [Asana's website](https://asana.com/uses/to-do-list), a very know productivity app that offers (among other things) a todo-app that looks like this:
 
+
+
 ![Asana](assets/asana.png)
+
+
 
 This is a great reference, but it looks nothing like Adyen’s brand. For that, we will have to make some changes here and there. Let’s get started by looking at [Adyen’s website](https://www.adyen.com/).
 
+
+
 ![Adyen](assets/adyen.png)
+
+
+
 
 At the first fold of the site, we can see the colors they use, the fonts, the buttons, the search function, the spacing and alignment...Basically everything we need for our app!
 

@@ -30,3 +30,4 @@ There are tons of resources online to help you become a better front end develop
 - [Figma](https://www.figma.com/ui-design-tool/): Figma is a free, online UI tool to create, collaborate, prototype, and handoff designs. Is very widely used among developers, designers and tech companies as a whole and mastering it will help you work better with designers.
 - [Principles of design on InVision App](https://www.invisionapp.com/design-defined/principles-of-design/)
 - [10 effective web design principles every designer should know](https://webflow.com/blog/web-design-principles)
+- [How to simplify your design](https://uxmag.com/articles/how-to-simplify-your-design)

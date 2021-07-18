@@ -182,10 +182,13 @@ To learn more about image quality, read [Optimizing Images for Web: A Practical 
 
 Companies are in constant pursuit of building simple and usable products. More features, new technologies, and advanced capabilities but still in a lightweight and simple to use format. More often than not, making it simple is the hardest thing there can be.
 
+![Image](assets/simple.png)
+
 So how can we apply it to product design? We strongly suggest you read the [How to simplify your design](https://uxmag.com/articles/how-to-simplify-your-design) with 20+ easy to follow illustrated examples about UX design.
 
 
-***Now that we have a general idea of the essential design principles, it’s time to put them to practice!*** [Click here](practical_guide.md) to take a look at a practical guide we’ve put together to help you build applications based on other company’s designs!
+# Next Steps
+Now that we have a general idea of the essential design principles, it’s time to put them to practice!*** [Click here](practical_guide.md) to take a look at a practical guide we’ve put together to help you build applications based on other company’s designs!
 
 
 
